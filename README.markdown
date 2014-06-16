@@ -85,7 +85,7 @@ requires that the Vim plugin is installed and also requires Ruby.
 
 To disable error highlighting altogether add this line to your `~/.vimrc` file:
 
-    let g:JSLintHighlightErrorLine = 0
+    let g:JSHintHighlightErrorLine = 0
 
 
 Working with quickfix
